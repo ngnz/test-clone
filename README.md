@@ -1,5 +1,2 @@
 # test-clone
 test
-
-test
-
